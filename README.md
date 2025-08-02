@@ -10,7 +10,16 @@ Profesional con más de **10 años trabajando en proyectos digitales**, especial
 He aprendido de manera **autodidacta y colaborativa**, desarrollando soluciones que combinan diseño, funcionalidad y una excelente comunicación con equipos de trabajo y clientes.  
 Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **prototipado, diseño responsivo y estructuras escalables**.
 
+
 ---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,react,angular,nodejs,dotnet,php,mysql,git,github,vite,figma,bootstrap,postman,jquery&perline=9" />
+</p>
+
+---
+
+
 
 ### 💼 Experiencia profesional
 
@@ -77,12 +86,6 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 - Node.js  
 - Git, GitHub, GitLab  
 - Microsoft Office, Figma, Postman
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,react,angular,nodejs,dotnet,php,mysql,git,github,vite,figma,bootstrap,postman,jquery&perline=9" />
-</p>
 
 ---
 
