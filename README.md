@@ -14,7 +14,7 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,react,angular,nodejs,dotnet,php,mysql,git,github,vite,figma,bootstrap,postman,jquery&perline=9" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,react,angular,nodejs,dotnet,php,mysql,git,github,vite,figma,bootstrap,postman,jquery,pinia&perline=9" />
 </p>
 
 ---
