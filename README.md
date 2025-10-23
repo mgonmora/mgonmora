@@ -95,7 +95,8 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 
 - 🎨 **Dashboard con Vue 3 + Vuetify 3** para proyectos ambientales: filtros, agrupación de datos y visualización con gráficos.
 - 🛒 **Maqueta de productos de tienda online con Astro**: Imagenes, descripción, botones funcionales.
-- 🔧 **Implementación de pruebas unitarias con Jest** para asegurar robustez de componentes críticos.
+- 🔧 **Creación de SAO (Sistema de Administración de Orquestador)**  para Universidad en su administración de intranet.
+- 🔧 **Desarrollo de interfaces y funcionalidad** en https://gadmin.app y desarrollo de editor para creación de tiendas online.
 
 ---
 
