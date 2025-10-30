@@ -44,6 +44,7 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 - PF Alimentos  
 - CMPC  
 - ORIENCOOP  
+- Unifrutti
 
 ---
 
