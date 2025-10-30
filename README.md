@@ -33,6 +33,10 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 
 #### 🏢 Empresas con las que he trabajado:
 
+- NTT Data
+- Tutelkan
+- Universidad de Talca
+
 - Clínica Alemana  
 - BCI  
 - ENEL  
@@ -40,7 +44,6 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 - PF Alimentos  
 - CMPC  
 - ORIENCOOP  
-- Universidad de Talca
 
 ---
 
