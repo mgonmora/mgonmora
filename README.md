@@ -40,6 +40,7 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 - PF Alimentos  
 - CMPC  
 - ORIENCOOP  
+- Universidad de Talca
 
 ---
 
@@ -52,9 +53,9 @@ Me apasiona todo lo que tenga relación con el **Frontend**, en especial el **pr
 
 ### 🌐 Frameworks y bibliotecas
 
-- Angular, React, React Native, Vue.js  
+- Angular, React, React Native, Vue.js, Astro
 - ASP.NET, CodeIgniter, jQuery  
-- Bootstrap (con experiencia usando Less y Stylus)
+- Bootstrap (con experiencia usando Less y Stylus), Material Design, DaisyUI, HeroUI, Tailwind
 
 ---
 
